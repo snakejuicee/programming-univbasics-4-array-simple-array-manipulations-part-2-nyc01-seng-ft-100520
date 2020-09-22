@@ -30,7 +30,7 @@ end
 
 def using_delete_at(array, int)
   
-  array.
+  array.delete_at(int)
   
 end
 
